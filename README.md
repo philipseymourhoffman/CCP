@@ -6,7 +6,7 @@ The Cozy Chat Personalizer is a user script that allows you to personalize the a
 
 To use this script, you'll need to have a user script manager installed on your browser. We recommend using Tampermonkey for Chrome or Firefox, or Greasemonkey for Firefox.
 
-Once you have a user script manager installed, simply copy the contents of the `cozy-chat-personalizer.js` file into a new user script, or use the "Install from URL" option in your user script manager and paste the following URL: 
+Once you have a user script manager installed, simply copy the contents of the `cozy-chat-personalizer.js` file into a new user script, or use the "Install from URL" option in your user script manager and paste the following URL: https://raw.githubusercontent.com/philipseymourhoffman/CCP/main/ccp.js
 
 
 ## Usage
