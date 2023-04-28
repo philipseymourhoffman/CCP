@@ -17,13 +17,13 @@ If you want the customized messages to appear in the same color as the username,
 
 Here are the categories you can customize:
 
-- Target Users: YOU
-- Target Users: FRIEND LIST
-- Target Users: BLOCK LIST
-- Target Users: MODWATCH
+- Target Users1: YOU
+- Target Users2: FRIEND LIST
+- Target Users3: BLOCK LIST
+- Target Users4: MODWATCH
 
 
  ## Special thanks to Michael for giving me the motivation to go out of my way to create a blocklist
  
  
- # PSH
+ # //PSH
